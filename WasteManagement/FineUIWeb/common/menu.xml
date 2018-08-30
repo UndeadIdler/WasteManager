@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tree>
+   <TreeNode Text="工程台账" SingleClickExpand="true">
+     <TreeNode Text="增加工程台账" NavigateUrl="~/MyAccounts/AccountsList_Gc_Window.aspx"></TreeNode>
+    <TreeNode Text="工程台账列表" NavigateUrl="~/MyAccounts/AccountsList_Gc.aspx"></TreeNode>
+  </TreeNode> 
+   <TreeNode Text="运维台账" SingleClickExpand="true">
+     <TreeNode Text="增加运维台账" NavigateUrl="~/MyAccounts/AccountsList_Yw_Window.aspx"></TreeNode>
+    <TreeNode Text="运维台账列表" NavigateUrl="~/MyAccounts/AccountsList_Yw.aspx"></TreeNode>
+  </TreeNode> 
+  <TreeNode Text="基础信息配置" SingleClickExpand="true">
+
+  </TreeNode> 
+</Tree>

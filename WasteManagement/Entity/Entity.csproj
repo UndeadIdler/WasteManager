@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{398F908D-DAE7-4E4B-9045-C6EEA4AC8E8C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Entity</RootNamespace>
+    <AssemblyName>Entity</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analysis.cs" />
+    <Compile Include="AnalysisItem.cs" />
+    <Compile Include="AnalysisResult.cs" />
+    <Compile Include="Area.cs" />
+    <Compile Include="CarNumber.cs" />
+    <Compile Include="Contract.cs" />
+    <Compile Include="Driver.cs" />
+    <Compile Include="Enterprise.cs" />
+    <Compile Include="FinalWaste.cs" />
+    <Compile Include="FinalWasteEx.cs" />
+    <Compile Include="FinalWasteLog.cs" />
+    <Compile Include="Industry.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="Monitor.cs" />
+    <Compile Include="MonitorItem.cs" />
+    <Compile Include="MonitorResult.cs" />
+    <Compile Include="PlanDetail.cs" />
+    <Compile Include="Pond.cs" />
+    <Compile Include="PondChange.cs" />
+    <Compile Include="PondLog.cs" />
+    <Compile Include="PondUsed.cs" />
+    <Compile Include="Position.cs" />
+    <Compile Include="ProductDetail.cs" />
+    <Compile Include="ProductOut.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Role.cs" />
+    <Compile Include="RoleMenu.cs" />
+    <Compile Include="Status.cs" />
+    <Compile Include="TransferPlan.cs" />
+    <Compile Include="Type.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserRole.cs" />
+    <Compile Include="Waste.cs" />
+    <Compile Include="WasteStorage.cs" />
+    <Compile Include="WasteToProduct.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

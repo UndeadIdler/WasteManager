@@ -1,0 +1,10 @@
+F:\FineUI模板\zlgl4\zlgl\ESBasic\bin\Release\ESBasic.dll
+F:\FineUI模板\zlgl4\zlgl\ESBasic\bin\Release\ESBasic.pdb
+F:\FineUI模板\zlgl4\zlgl\ESBasic\obj\Release\ESBasic.csprojResolveAssemblyReference.cache
+F:\FineUI模板\zlgl4\zlgl\ESBasic\obj\Release\ESBasic.Threading.Timers.RichTimer.TimerConfigure.resources
+F:\FineUI模板\zlgl4\zlgl\ESBasic\obj\Release\ESBasic.Widget.AgileProgressBar.resources
+F:\FineUI模板\zlgl4\zlgl\ESBasic\obj\Release\ESBasic.Widget.EnumComboBox.resources
+F:\FineUI模板\zlgl4\zlgl\ESBasic\obj\Release\ESBasic.Widget.ExListView.resources
+F:\FineUI模板\zlgl4\zlgl\ESBasic\obj\Release\ESBasic.csproj.GenerateResource.Cache
+F:\FineUI模板\zlgl4\zlgl\ESBasic\obj\Release\ESBasic.dll
+F:\FineUI模板\zlgl4\zlgl\ESBasic\obj\Release\ESBasic.pdb

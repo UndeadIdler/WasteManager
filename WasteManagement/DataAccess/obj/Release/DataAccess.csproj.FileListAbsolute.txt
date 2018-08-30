@@ -1,0 +1,10 @@
+F:\FineUI模板\zlgl4\zlgl\DataAccess\bin\Release\DataAccess.dll
+F:\FineUI模板\zlgl4\zlgl\DataAccess\bin\Release\DataAccess.pdb
+F:\FineUI模板\zlgl4\zlgl\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+F:\FineUI模板\zlgl4\zlgl\DataAccess\obj\Release\DataAccess.dll
+F:\FineUI模板\zlgl4\zlgl\DataAccess\obj\Release\DataAccess.pdb
+F:\FineUI模板\zlgl42\zlgl2\DataAccess\bin\Release\DataAccess.dll
+F:\FineUI模板\zlgl42\zlgl2\DataAccess\bin\Release\DataAccess.pdb
+F:\FineUI模板\zlgl42\zlgl2\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+F:\FineUI模板\zlgl42\zlgl2\DataAccess\obj\Release\DataAccess.dll
+F:\FineUI模板\zlgl42\zlgl2\DataAccess\obj\Release\DataAccess.pdb
